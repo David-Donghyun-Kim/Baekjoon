@@ -1,5 +1,3 @@
-# Practicing Baekjoon Problems
-
 # 백준 코드 연습
 
-My baekjoon code problem solutions
+백준 문제 풀이 저장용
