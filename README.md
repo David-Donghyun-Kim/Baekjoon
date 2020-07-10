@@ -9,3 +9,7 @@
 **4. while문 (while Statement)** [GO!](https://www.acmicpc.net/step/2)
 
 **5. 실습1 (Practice 1)** [GO!](https://www.acmicpc.net/step/48)
+
+**6. 1차원 배열 (1 Dimensional Array)** [GO!](https://www.acmicpc.net/step/6)
+
+**7. 함수 (Function)** [GO!](https://www.acmicpc.net/step/5)
