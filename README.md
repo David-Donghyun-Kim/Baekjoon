@@ -7,3 +7,5 @@
 **3. for문 (for Statement)** [GO!](https://www.acmicpc.net/step/3)
 
 **4. while문 (while Statement)** [GO!](https://www.acmicpc.net/step/2)
+
+**5. 실습1 (Practice 1)** [GO!](https://www.acmicpc.net/step/48)
