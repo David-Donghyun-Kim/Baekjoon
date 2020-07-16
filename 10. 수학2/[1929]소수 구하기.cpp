@@ -1,4 +1,6 @@
 #include<iostream>
+
+// 에라토스테네스의 체 사용
 int main()
 {
     int M,N;
