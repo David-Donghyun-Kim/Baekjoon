@@ -17,3 +17,5 @@
 **8. 문자열 (String)** [Go!](https://www.acmicpc.net/step/7)
 
 **9. 수학 1 (Math 1)** [Go!](https://www.acmicpc.net/step/8)
+
+**10. 수학 2(Math 2)** [Go!](https://www.acmicpc.net/step/10)
