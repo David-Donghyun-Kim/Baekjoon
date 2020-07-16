@@ -10,7 +10,7 @@ int main()
     //k층의 n호 = k-1층의 1호~n호
     //k층의 n-1호 = k-1층의 1호~n-1호
     //k-1층의 n호
-
+    
     int T,k,n;
     std::cin>>T;
     for(int i=0;i<T;i++)
