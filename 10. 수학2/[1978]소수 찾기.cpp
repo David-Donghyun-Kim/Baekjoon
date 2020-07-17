@@ -1,5 +1,4 @@
 #include <iostream>
-#include <array>
 int main()
 {
     int N,tot = 0;
