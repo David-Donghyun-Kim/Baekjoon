@@ -6,7 +6,7 @@ int main()
     {
         if(!(arr[i]))
         {
-            if(i*i > 246913) break;
+            if(i*i > 246912) break;
             for(int j=i*i;j<=246912;j+=i)
                 arr[j] = 1;
         }
