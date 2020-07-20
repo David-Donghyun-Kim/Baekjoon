@@ -14,10 +14,10 @@
 
 **7. 함수 (Function)** [GO!](https://www.acmicpc.net/step/5)
 
-**8. 문자열 (String)** [Go!](https://www.acmicpc.net/step/7)
+**8. 문자열 (String)** [GO!](https://www.acmicpc.net/step/7)
 
-**9. 수학 1 (Math 1)** [Go!](https://www.acmicpc.net/step/8)
+**9. 수학 1 (Math 1)** [GO!](https://www.acmicpc.net/step/8)
 
-**10. 수학 2(Math 2)** [Go!](https://www.acmicpc.net/step/10)
+**10. 수학 2(Math 2)** [GO!](https://www.acmicpc.net/step/10)
 
-**11. 재귀 ([Recursion](https://github.com/David-Donghyun-Kim/Baekjoon))** [Go!](https://www.acmicpc.net/step/19)
+**11. 재귀 ([Recursion](https://github.com/David-Donghyun-Kim/Baekjoon))** [GO!](https://www.acmicpc.net/step/19)
