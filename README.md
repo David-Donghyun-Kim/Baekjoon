@@ -21,3 +21,5 @@
 **10. 수학 2(Math 2)** [Questions](https://www.acmicpc.net/step/10)
 
 **11. 재귀 ([Recursion](https://github.com/David-Donghyun-Kim/Baekjoon))** [Questions](https://www.acmicpc.net/step/19)
+
+**13. 브루트 포스(Brute Force)** [Questions](https://www.acmicpc.net/step/22)
